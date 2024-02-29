@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "example" {
-  name     = module.naming.resource_group.name
+  name     = "example"
   location = "West Europe"
 }
