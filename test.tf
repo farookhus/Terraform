@@ -4,3 +4,6 @@ resource "azurerm_resource_group" "example" {
 }
 
 ###############new comment
+
+
+###################fet2#########################################
